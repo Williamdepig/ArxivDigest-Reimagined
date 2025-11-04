@@ -11,7 +11,7 @@ arxiv:
   #   - "math"
   #   - "stat"
   categories: []
-  max_results: 10 # 0 means no limit
+  max_results: 0 # 0 means no limit
 
 # ============================================
 # LLM Settings
@@ -26,9 +26,9 @@ llm:
 # Three-Stage Filtering
 # ============================================
 user_prompt: |
-  Related to (M)LLMs.
-  Not related to language-specific models or applications.
-  Do not include surveys.
+  Related to quantum error correction and fault-tolerant quantum computing.
+  Related to decoders' design for quantum error correction codes.
+  Can include surveys.
   Always answer in Chinese.
 
 stage1:
