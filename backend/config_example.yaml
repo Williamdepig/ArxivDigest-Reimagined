@@ -10,7 +10,7 @@ arxiv:
   #   - "cs"
   #   - "math"
   #   - "stat"
-  categories:
+  categories: []
   max_results: 50 # 0 means no limit
 
 # ============================================
