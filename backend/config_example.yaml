@@ -11,7 +11,7 @@ arxiv:
   #   - "math"
   #   - "stat"
   categories: []
-  max_results: 50 # 0 means no limit
+  max_results: 10 # 0 means no limit
 
 # ============================================
 # LLM Settings
